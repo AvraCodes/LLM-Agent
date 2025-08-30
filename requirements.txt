@@ -9,3 +9,4 @@ itsdangerous
 lxml
 Pillow
 XlsxWriter
+gunicorn
