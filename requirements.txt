@@ -1,0 +1,11 @@
+Flask
+python-pptx
+requests
+Werkzeug
+Jinja2
+MarkupSafe
+click
+itsdangerous
+lxml
+Pillow
+XlsxWriter
